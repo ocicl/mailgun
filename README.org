@@ -1,0 +1,10 @@
+* mailgun
+
+A thin wrapper to post HTML emails through mailgun.com
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/40ants/mailgun.git   |
+| commit  | ded11f4  |
+| systems | mailgun |
+|---------+-------------------------------------------|
+
